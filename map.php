@@ -25,8 +25,8 @@ if($client->isAccessTokenExpired()) {
 <head>
 <meta charset="UTF-8">
 <title>Mapong - Map your data</title>
-<link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
-<script src="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
 <script   src="http://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
 <script src="mapong.js"></script>
 <link rel="stylesheet" href="mapong.css" />
